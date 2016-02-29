@@ -31,6 +31,12 @@ sites and map.This application should serve as a one stop for all required infor
 The map is being displayed when we click (site) button. this map has pointers to all the
 locations where project are being deployed. the geo position are stored in database table.
 
+Test users created/sql updated:
+
+1. Username/password: testadmin
+2. Username/password: testsysadmin
+3. Username/password: testuser
+
 ## Installation Guideline
 
 #### Create Database
